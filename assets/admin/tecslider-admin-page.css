@@ -1,0 +1,75 @@
+.tecslider-admin-container{
+    background: #b3d4fc;
+
+    padding: 15px;
+    margin-right: 15px;
+    margin-left: auto;
+    border-radius: 12px;
+}
+.tecslider-admin-row{
+    display: block;
+    padding: 2px;
+}
+.tecslider-admin-row-flex{
+    display: flex;
+    flex-direction: row;
+    clear: both;
+    margin-top: 80px;
+}
+.tecslider-admin-center{
+    text-align: center;
+}
+.tecslider-admin-flex-col{
+    width: 50%;
+    padding: 8px;
+}
+.tecslider-admin-divider{
+    margin:40px;
+}
+.tecslider-admin-h1{
+    font-size: 32px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 600;
+}
+.tecslider-admin-h2{
+    font-size: 26px;
+    text-align: center;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-top: 16px;
+    margin-bottom: 25px;
+    display: block;
+}
+.tecslider-admin-header{
+    display: flex;
+    font-size: 22px;
+}
+.tecslider-admin-header-logo img{
+    width: 78px;
+    height: 78px;
+}
+.tecslider-admin-header-text{
+    width: 100%;
+    text-align: center;
+    font-size: 56px;
+    line-height: 1.3;
+}
+.tecslider-admin-select-block{
+    vertical-align: middle;
+}
+ul.tecslider-instruction-list{
+    list-style:disc;
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 20px;
+}
+ul.tecslider-instruction-list.number{
+    list-style:decimal;
+}
+ul.tecslider-instruction-list li{
+    line-height: 1.3;
+}
+.tecslider-admin-preview-container{
+    text-align: center;
+}

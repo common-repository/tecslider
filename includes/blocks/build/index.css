@@ -1,0 +1,37 @@
+/*!****************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[3]!./src/editor.scss ***!
+  \****************************************************************************************************************************************************************************************************************************************/
+/**
+ * The following styles get applied inside the editor only.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+.wp-block-create-block-tecsb-slider-block {
+  border: 1px dotted #f00;
+}
+
+.tec-flex-container {
+  display: flex;
+  flex-direction: column; /* Stack items vertically */
+  align-items: flex-start; /* Align items to the start of the container */
+  width: 100%;
+  margin-bottom: 12px;
+}
+
+.tec-label {
+  margin-bottom: 10px; /* Add some spacing between the label and the Select */
+}
+
+.tec-label label {
+  font-size: 11px;
+  font-weight: 500;
+  line-height: 1.4;
+  text-transform: uppercase;
+}
+
+.full-width-select {
+  width: 100%;
+  z-index: 2222;
+}
+
+/*# sourceMappingURL=index.css.map*/

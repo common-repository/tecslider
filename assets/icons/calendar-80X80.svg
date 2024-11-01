@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <!-- Background Circle -->
+  <circle cx="40" cy="40" r="38" fill="#86DC3D" />
+  <!-- Letter "E" -->
+  <text x="7" y="58" font-family="Arial" font-size="50" font-weight="bold" fill="#FFFFFF">E</text>
+  <!-- Letter "G" -->
+  <text x="37" y="58" font-family="Arial" font-size="50" font-weight="bold" fill="#FFFFFF">G</text>
+  <circle cx="26" cy="67" r="2" fill="#FFFFFF" />
+  <circle cx="40" cy="67" r="2" fill="#FFFFFF" />
+  <circle cx="54" cy="67" r="2" fill="#FFFFFF" />
+</svg>

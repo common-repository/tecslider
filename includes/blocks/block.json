@@ -1,0 +1,15 @@
+{
+	"apiVersion": 2,
+	"name": "tecslider/tecsb-slider-block",
+	"version": "1.0.0",
+	"title": "Events Slider for The Evets Calendar",
+	"category": "media",
+	"description": "Events Slider for The Evets Calendar.",
+	"supports": {
+		"html": true
+	},
+	"textdomain": "tecsb-slider-block",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}

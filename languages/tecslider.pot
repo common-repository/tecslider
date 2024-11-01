@@ -1,0 +1,107 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Slider Addons for The Events Calendar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-25 06:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-6.0\n"
+"X-Domain: tecslider"
+
+#: includes/admin/pages/tecslider-admin.php:94
+msgid "Added: Choose number of events to slide."
+msgstr ""
+
+#: includes/admin/pages/tecslider-admin.php:79
+msgid "Auto slide events on page load."
+msgstr ""
+
+#: includes/admin/pages/tecslider-admin.php:89
+msgid "Color for colors used inside theme."
+msgstr ""
+
+#: includes/admin/pages/tecslider-admin.php:124
+msgid "Colored Card"
+msgstr ""
+
+#: includes/admin/pages/tecslider-admin.php:105
+msgid "Current Available Themes Preview"
+msgstr ""
+
+#: includes/admin/pages/tecslider-admin.php:113
+msgid "Date Top"
+msgstr ""
+
+#: includes/class-tecslider-function.php:217
+#: includes/blocks/class-tecslider-blocks.php:328
+msgid "Event not found."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://tecsb.mywptrek.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.mywptrek.com/profile"
+msgstr ""
+
+#. Author of the plugin
+msgid "MyWpTrek"
+msgstr ""
+
+#: includes/admin/pages/tecslider-admin.php:74
+msgid "Number of events to display at one time."
+msgstr ""
+
+#: includes/admin/pages/tecslider-admin.php:35
+msgid "Search for Tecsb Events Slider in block search box."
+msgstr ""
+
+#: includes/admin/pages/tecslider-admin.php:40
+msgid "Select block as shown in screenshot."
+msgstr ""
+
+#: includes/admin/pages/tecslider-admin.php:69
+msgid "Select three different themes."
+msgstr ""
+
+#: includes/admin/pages/tecslider-admin.php:58
+msgid "Select various options for slider from side settings panel."
+msgstr ""
+
+#: includes/admin/pages/tecslider-admin.php:135
+msgid "Single Event"
+msgstr ""
+
+#: includes/admin/class-tecslider-admin-init.php:52
+msgid "Slider addons"
+msgstr ""
+
+#. Name of the plugin
+msgid "Slider Addons for The Events Calendar"
+msgstr ""
+
+#: includes/admin/class-tecslider-admin-init.php:51
+#: includes/admin/pages/tecslider-admin.php:24
+msgid "Slider addons for The Events Calendar"
+msgstr ""
+
+#. Description of the plugin
+msgid "Slider display for your events."
+msgstr ""
+
+#: includes/admin/pages/tecslider-admin.php:84
+msgid "Transition time on slide change."
+msgstr ""
+
+#: includes/admin/pages/tecslider-admin.php:64
+msgid "Upcoming or past events to show."
+msgstr ""

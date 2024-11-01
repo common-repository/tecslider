@@ -1,0 +1,16 @@
+.mwt-premium-badge{
+    padding: 3px 6px;
+    border-radius: 4px;
+    background-color: #b62027;
+    color: #FFF;
+    font-weight: 800;
+    font-size: 10px;
+    margin-left: 8px;
+}
+.eicon-eventglide{
+    width: 24px;
+    height: 24px;
+    background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDM0IDM0IiBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSI+PGNpcmNsZSBjeD0iMTciIGN5PSIxNyIgcj0iMTUiIGZpbGw9InRyYW5zcGFyZW50IiBzdHJva2U9IiM1RUQzN0EiIHN0cm9rZS13aWR0aD0iMiI+PC9jaXJjbGU+PHRleHQgeD0iNSIgeT0iMjMiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxOCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiM1RUQzN0EiPkU8L3RleHQ+PHRleHQgeD0iMTUiIHk9IjIzIiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNUVEMzdBIj5HPC90ZXh0PjxjaXJjbGUgY3g9IjEyIiBjeT0iMjYiIHI9IjEiIGZpbGw9IiM1RUQzN0EiPjwvY2lyY2xlPjxjaXJjbGUgY3g9IjE3IiBjeT0iMjYiIHI9IjEiIGZpbGw9IiM1RUQzN0EiPjwvY2lyY2xlPjxjaXJjbGUgY3g9IjIyIiBjeT0iMjYiIHI9IjEiIGZpbGw9IiM1RUQzN0EiPjwvY2lyY2xlPjwvc3ZnPgo=');
+    background-size: contain;
+    display: inline-block;
+}
